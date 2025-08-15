@@ -1,0 +1,1 @@
+Intended to be used with gnu stow
