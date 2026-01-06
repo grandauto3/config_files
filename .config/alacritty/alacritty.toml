@@ -14,4 +14,4 @@ padding.y = 14
 decorations = "None"
 
 [terminal]
-shell = "fish"
+shell = "zsh"
